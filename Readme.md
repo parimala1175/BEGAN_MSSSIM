@@ -113,3 +113,20 @@ Code references:
 1. BEGAN: https://github.com/khanrc/tf.gans-comparison
 2. NIQE:  http://live.ece.utexas.edu/research/Quality/blind.htm
 3. FID:   https://github.com/bioinf-jku/TTUR
+
+@inproceedings{kancharla2018improving,
+
+  title={Improving the Visual Quality of Generative Adversarial Network (GAN)-Generated Images Using the Multi-Scale Structural Similarity Index},
+  
+  author={Kancharla, Parimala and Channappayya, Sumohana S},
+  
+  booktitle={2018 25th IEEE International Conference on Image Processing (ICIP)},
+  
+  pages={3908--3912},
+  
+  year={2018},
+  
+  organization={IEEE}
+  
+}
+
